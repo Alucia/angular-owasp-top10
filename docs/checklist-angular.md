@@ -1,0 +1,4 @@
+- [ ] Guards en rutas
+- [ ] HTTPS obligatorio
+- [ ] npm audit
+- [ ] Errores globales
